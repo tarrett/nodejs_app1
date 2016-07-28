@@ -1,0 +1,4 @@
+{
+    "name": "myps",
+    "main": "./mypubsub.js"
+}
